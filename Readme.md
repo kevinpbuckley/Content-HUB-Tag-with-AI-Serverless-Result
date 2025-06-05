@@ -12,11 +12,11 @@ When integrating your own AI service with Sitecore Content Hub, your AI should r
     {
       "probability": 0.7597,
       "tagName": "Ultron",
-      "source": "default"
+      "source": "custom"
     },
     {
-      "probability": 0.7597,
-      "tagName": "Ultron",
+      "probability": 0.7312,
+      "tagName": "Avengers",
       "source": "default"
     }
   ]
